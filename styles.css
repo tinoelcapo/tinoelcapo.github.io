@@ -96,6 +96,12 @@ footer {
     height: 50px; /* Altura deseada del área centrada, ajusta según tus necesidades */
 }
 
+/* Estilos para el video */
+iframe {
+    width: 100%;
+    height: 400px;
+}
+
 /* Estilos para el botón */
 .boton {
     display: inline-block;
